@@ -1,0 +1,2 @@
+# RasPi-FanController
+Raspberry Piに取り付けた冷却ファンをGPIOからON/OFF制御するシェルスクリプト
